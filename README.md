@@ -1,4 +1,4 @@
-# dumped
+# Dumped
 Save blobs without a jailbreak on A6 devices!
 Dumped is a program to dump onboard .shsh blobs from A6 devices without a jailbreak, straight from DFU mode.
 How to use: 
